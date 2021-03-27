@@ -7,9 +7,20 @@
 
 Hi, I'm Obiagba Mary. [Code Collabo](https://github.com/code-collabo) is a free open source community, a personal project turned community project. Everyone having javascript, nodejs and/or mongoDB knowledge is welcome to contribute. 
 
-Join us build awesome, real world, open source projects which will benefit both contributors & users alike. The current project we are working on aims to make the work of mongoDB, MERN and MEAN stack developers easier. At the same time, it aims to promote collaboration, provide problem solving, open source, internship & remote experience for contributors. See [project readme](https://github.com/code-collabo/node-mongo-cli) for more details.
+Join us build awesome, real world, open source projects which will benefit both contributors & users alike. The current projects we are working on aims to make the work of frontend, nodejs, mongoDB, MERN and MEAN stack developers easier. At the same time, the aim is to promote collaboration, provide problem solving, open source, internship & remote experience for contributors. 
 
-Happy coding! 
+***Ongoing projects:***
+* [***node-mongo-cli project***](https://github.com/code-collabo/node-mongo-cli) 
+* [***node-mongo-starter-kit project***](https://github.com/code-collabo/node-mongo-starter-kit) 
+* [***less-css-helper-library project***](https://github.com/code-collabo/less-css-helper-library)
+
+<hr/>
+
+***Checkout out*** [***less-css-helper-library v1.0.1*** on npm](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🎉🎉🎉
+
+<hr/>
+
+Happy coding!
 
 <!--
 #### Find me on:
