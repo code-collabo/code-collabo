@@ -11,7 +11,8 @@ Happy to have you join us build awesome, real world, open source projects, which
 
 ***Ongoing projects:***
 * [***node-mongo-cli project***](https://github.com/code-collabo/node-mongo-cli) 
-* [***node-mongo-starter-kit project***](https://github.com/code-collabo/node-mongo-starter-kit) 
+* [***node-mongo-esm-kit project***](https://github.com/code-collabo/node-mongo-esm-kit) 
+* [***node-mongo-cjs-kit project***](https://github.com/code-collabo/node-mongo-cjs-kit) 
 * [***less-css-helper-library project***](https://github.com/code-collabo/less-css-helper-library)
 
 <hr/>
